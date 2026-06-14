@@ -1,0 +1,3 @@
+# exe/installer は GitHub Releases にアップロードするのでリポジトリには入れない
+*.exe
+*.blockmap
